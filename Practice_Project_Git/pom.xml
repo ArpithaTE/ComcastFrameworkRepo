@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Practice_Project_Git</groupId>
+  <artifactId>Practice_Project_Git</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Practice_Project_Git</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>Comcast_CRM_GUI_Framework</groupId>
+  		<artifactId>Comcast_CRM_GUI_Framework</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+</project>
